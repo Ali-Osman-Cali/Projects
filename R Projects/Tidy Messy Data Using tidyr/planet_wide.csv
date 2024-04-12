@@ -1,0 +1,6 @@
+metric,Mercury,Venus,Earth,Mars,Jupiter,Saturn,Uranus,Neptune
+mass,0.33,4.87,5.97,0.642,1898,568,86.8,102
+diameter,4879,12104,12756,6792,142984,120536,51118,49528
+distance_from_sun,57.9,108.2,149.6,227.9,778.6,1433.5,2872.5,4495.1
+gravity,3.7,8.9,9.8,3.7,23.1,9,8.7,11
+number_of_moons,0,0,1,2,79,62,27,14
